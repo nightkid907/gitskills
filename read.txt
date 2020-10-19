@@ -1,1 +1,2 @@
 add merger to main
+fix bug on issue-101
